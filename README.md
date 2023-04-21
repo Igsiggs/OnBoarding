@@ -2,4 +2,4 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=It's+my+telegram+bot+for+onboarding" alt="Typing SVG" /></a>
 
-[![codewars](https://www.codewars.com/users/henesy/badges/micro)](https://www.codewars.com/users/henesy)]
+[![codewars](https://www.codewars.com/users/henesy/badges/micro)](https://www.codewars.com/users/henesy)
