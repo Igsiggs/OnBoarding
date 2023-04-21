@@ -1,0 +1,2 @@
+TelegramBotAPI==0.3.2
+keyboa==3.1.0 
