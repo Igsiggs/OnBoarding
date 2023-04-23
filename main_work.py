@@ -4,7 +4,7 @@ from db_test import db
 from keyboa.keyboard import Keyboa
 import json
 
-TOKEN = "5600063134:AAF4AYzjo14X-PGBx955a4x9zdaT8l_MhbE"
+TOKEN = ""
 bot = telebot.TeleBot(TOKEN)
 URL = 'https://api.telegram.org/bot'
 
